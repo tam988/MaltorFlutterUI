@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105602896980",
+    "firebase_url": "https://sel-anti-malware-f4b91-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sel-anti-malware-f4b91",
+    "storage_bucket": "sel-anti-malware-f4b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105602896980:android:21620599c8514c474309c1",
+        "android_client_info": {
+          "package_name": "com.example.ui_ids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105602896980-bpeofeqgih7i0hgg31gfei2t9ppr770o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7Nd-vGtCYthFefQk6tLo3JKcje-XIE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105602896980-bpeofeqgih7i0hgg31gfei2t9ppr770o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
